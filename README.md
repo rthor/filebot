@@ -8,7 +8,7 @@ A node.js wrapper for [FileBot](https://www.filebot.net/).
 $ npm i filebot
 ```
 
-All (both) methods are currently static, accept an optional callback argument and Returns a promise.
+All (both) methods are currently static, accept an optional callback argument and return a promise.
 
 ```javascript
 var FileBot = require('filebot')
