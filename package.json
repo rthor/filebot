@@ -1,0 +1,19 @@
+{
+  "name": "filebot",
+  "version": "1.0.0",
+  "description": "A node wrapper for the FileBot CLI",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rthor/filebot"
+  },
+  "author": "rthor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rthor/filebot/issues"
+  },
+  "homepage": "https://github.com/rthor/filebot",
+  "dependencies": {
+    "extend": "^2.0.1",
+  }
+}
